@@ -20,4 +20,6 @@
 
 **Game Version:** 0.0.0.XXXX
 
-**Operating System and Alderon Games ID:**
+**Operating System & Version:**
+
+**Alderon Games ID:** 000-000-000
