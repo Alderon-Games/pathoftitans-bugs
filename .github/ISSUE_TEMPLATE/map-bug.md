@@ -2,7 +2,7 @@
 name: Map Bug
 about: Report a map bug!
 title: ''
-labels: 'Type: Map Bug'
+labels: 'Type: Map-Bug'
 assignees: ''
 
 ---
